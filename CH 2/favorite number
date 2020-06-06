@@ -1,3 +1,0 @@
-x = 7
-message = "My " + "favorite " + "number " + "is " + str(x) + "!"
-print(message)
