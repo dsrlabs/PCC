@@ -6,7 +6,6 @@ def make_album(artist_name, album_title):
 
 print("\nPlease enter the artist name:")
 print("Please enter the album title:")
-
 print("[enter 'q' at any time to quit]")
 print()
 while True:
